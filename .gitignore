@@ -1,0 +1,4 @@
+chip8-em-*
+roms/
+objs/
+.vscode/
